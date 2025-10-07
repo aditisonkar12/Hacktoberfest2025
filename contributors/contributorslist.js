@@ -2680,6 +2680,11 @@ contributors = [
     fullname: "Vikas jakkula",
     username: "https://github.com/vikasjakkula",
   },
+  {
+    id: 447,
+    fullname: "Aziz Khanji",
+    username: "https://github.com/axizkhan",
+  },
 
   {
     id: 447,
@@ -2701,5 +2706,10 @@ contributors = [
     id: 473,
     fullname: "Rajesh Roy",
     username: "https://github.com/jaycss9",
+  },
+  {
+    id: 474,
+    fullname: "Aditi Sonkar",
+    username: "https://github.com/aditisonkar12",
   },
 ];
